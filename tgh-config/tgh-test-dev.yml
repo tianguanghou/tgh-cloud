@@ -1,6 +1,4 @@
-test:
-  tghtest
-name:
-  tgh
-age:
-  18
+test: 'tghtest'
+name: 'tgh'
+age: 18
+  
